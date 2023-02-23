@@ -1,2 +1,4 @@
 # laba2
-Advanced OOP
+Advanced OOP 
+
+This project is a part of an OOP java course
